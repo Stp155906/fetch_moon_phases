@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2024-06-20",
+        "day": "Thursday",
+        "moon_phase": "Full Moon"
+    },
+    {
+        "date": "2024-06-21",
+        "day": "Friday",
+        "moon_phase": "Full Moon"
+    },
+    {
+        "date": "2024-06-22",
+        "day": "Saturday",
+        "moon_phase": "Waning Gibbous"
+    },
+    {
+        "date": "2024-06-23",
+        "day": "Sunday",
+        "moon_phase": "Waning Gibbous"
+    },
+    {
+        "date": "2024-06-24",
+        "day": "Monday",
+        "moon_phase": "Waning Gibbous"
+    },
+    {
+        "date": "2024-06-25",
+        "day": "Tuesday",
+        "moon_phase": "Waning Gibbous"
+    },
+    {
+        "date": "2024-06-26",
+        "day": "Wednesday",
+        "moon_phase": "Full Moon"
+    }
+]
