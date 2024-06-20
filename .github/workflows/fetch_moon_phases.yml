@@ -34,4 +34,4 @@ jobs:
           git commit -m "Update moon phases data"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.FetchMoonPhases }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
