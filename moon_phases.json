@@ -1,10 +1,5 @@
 [
     {
-        "date": "2024-06-20",
-        "day": "Thursday",
-        "moon_phase": "Full Moon"
-    },
-    {
         "date": "2024-06-21",
         "day": "Friday",
         "moon_phase": "Full Moon"
@@ -33,5 +28,10 @@
         "date": "2024-06-26",
         "day": "Wednesday",
         "moon_phase": "Full Moon"
+    },
+    {
+        "date": "2024-06-27",
+        "day": "Thursday",
+        "moon_phase": "Waning Gibbous"
     }
 ]
