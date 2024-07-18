@@ -1,13 +1,5 @@
 [
     {
-        "date": "2024-07-17",
-        "day": "Wednesday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Ashvini",
-        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
-    },
-    {
         "date": "2024-07-18",
         "day": "Thursday",
         "moon_phase": "Waning Gibbous",
@@ -50,6 +42,14 @@
     {
         "date": "2024-07-23",
         "day": "Tuesday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Krittika",
+        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
+    },
+    {
+        "date": "2024-07-24",
+        "day": "Wednesday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Krittika",
