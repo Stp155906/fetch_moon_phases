@@ -1,13 +1,5 @@
 [
     {
-        "date": "2024-10-03",
-        "day": "Thursday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Bharani",
-        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
-    },
-    {
         "date": "2024-10-04",
         "day": "Friday",
         "moon_phase": "Waning Gibbous",
@@ -50,6 +42,14 @@
     {
         "date": "2024-10-09",
         "day": "Wednesday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2024-10-10",
+        "day": "Thursday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Bharani",
