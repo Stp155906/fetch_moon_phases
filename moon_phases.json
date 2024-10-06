@@ -1,13 +1,5 @@
 [
     {
-        "date": "2024-10-05",
-        "day": "Saturday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Rohini",
-        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
-    },
-    {
         "date": "2024-10-06",
         "day": "Sunday",
         "moon_phase": "Waning Gibbous",
@@ -50,6 +42,14 @@
     {
         "date": "2024-10-11",
         "day": "Friday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Rohini",
+        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
+    },
+    {
+        "date": "2024-10-12",
+        "day": "Saturday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Rohini",
