@@ -1,13 +1,5 @@
 [
     {
-        "date": "2024-10-20",
-        "day": "Sunday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Mrigashira",
-        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
-    },
-    {
         "date": "2024-10-21",
         "day": "Monday",
         "moon_phase": "Waning Gibbous",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A time for completion and release.",
         "lunar_mansion_name": "Bharani",
         "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2024-10-27",
+        "day": "Sunday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Rohini",
+        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
     }
 ]
