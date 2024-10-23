@@ -1,13 +1,5 @@
 [
     {
-        "date": "2024-10-22",
-        "day": "Tuesday",
-        "moon_phase": "Full Moon",
-        "moon_phase_meaning": "A time for completion and release.",
-        "lunar_mansion_name": "Krittika",
-        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
-    },
-    {
         "date": "2024-10-23",
         "day": "Wednesday",
         "moon_phase": "Full Moon",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Ashvini",
         "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
+    },
+    {
+        "date": "2024-10-29",
+        "day": "Tuesday",
+        "moon_phase": "Full Moon",
+        "moon_phase_meaning": "A time for completion and release.",
+        "lunar_mansion_name": "Mrigashira",
+        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
     }
 ]
