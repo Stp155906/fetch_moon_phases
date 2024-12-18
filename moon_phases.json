@@ -1,13 +1,5 @@
 [
     {
-        "date": "2024-12-17",
-        "day": "Tuesday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Bharani",
-        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
-    },
-    {
         "date": "2024-12-18",
         "day": "Wednesday",
         "moon_phase": "Waning Gibbous",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Krittika",
         "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
+    },
+    {
+        "date": "2024-12-24",
+        "day": "Tuesday",
+        "moon_phase": "Full Moon",
+        "moon_phase_meaning": "A time for completion and release.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
     }
 ]
