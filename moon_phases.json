@@ -1,13 +1,5 @@
 [
     {
-        "date": "2024-12-25",
-        "day": "Wednesday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Ashvini",
-        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
-    },
-    {
         "date": "2024-12-26",
         "day": "Thursday",
         "moon_phase": "Waning Gibbous",
@@ -50,6 +42,14 @@
     {
         "date": "2024-12-31",
         "day": "Tuesday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2025-01-01",
+        "day": "Wednesday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Bharani",
