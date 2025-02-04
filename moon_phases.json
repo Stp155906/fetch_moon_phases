@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-02-03",
-        "day": "Monday",
-        "moon_phase": "Full Moon",
-        "moon_phase_meaning": "A time for completion and release.",
-        "lunar_mansion_name": "Rohini",
-        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
-    },
-    {
         "date": "2025-02-04",
         "day": "Tuesday",
         "moon_phase": "Waning Gibbous",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Bharani",
         "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2025-02-10",
+        "day": "Monday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Mrigashira",
+        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
     }
 ]
