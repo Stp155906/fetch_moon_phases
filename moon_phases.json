@@ -1,58 +1,58 @@
 [
     {
-        "date": "2025-02-05",
-        "day": "Wednesday",
-        "moon_phase": "Error fetching data: HTTPSConnectionPool(host='ssd.jpl.nasa.gov', port=443): Max retries exceeded with url: /api/horizons.api?format=text&COMMAND='301'&EPHEM_TYPE='OBSERVER'&CENTER='500@399'&START_TIME='2025-02-05%2000:00'&STOP_TIME='2025-02-05%2023:59'&STEP_SIZE='1%20d'&QUANTITIES='1,31' (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f019c553380>, 'Connection to ssd.jpl.nasa.gov timed out. (connect timeout=None)'))",
-        "moon_phase_meaning": "N/A",
-        "lunar_mansion_name": "N/A",
-        "lunar_mansion_meaning": "N/A"
-    },
-    {
         "date": "2025-02-06",
         "day": "Thursday",
-        "moon_phase": "Error fetching data: HTTPSConnectionPool(host='ssd.jpl.nasa.gov', port=443): Max retries exceeded with url: /api/horizons.api?format=text&COMMAND='301'&EPHEM_TYPE='OBSERVER'&CENTER='500@399'&START_TIME='2025-02-06%2000:00'&STOP_TIME='2025-02-06%2023:59'&STEP_SIZE='1%20d'&QUANTITIES='1,31' (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f019c52b390>, 'Connection to ssd.jpl.nasa.gov timed out. (connect timeout=None)'))",
-        "moon_phase_meaning": "N/A",
-        "lunar_mansion_name": "N/A",
-        "lunar_mansion_meaning": "N/A"
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Ashvini",
+        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
     },
     {
         "date": "2025-02-07",
         "day": "Friday",
-        "moon_phase": "Error fetching data: HTTPSConnectionPool(host='ssd.jpl.nasa.gov', port=443): Max retries exceeded with url: /api/horizons.api?format=text&COMMAND='301'&EPHEM_TYPE='OBSERVER'&CENTER='500@399'&START_TIME='2025-02-07%2000:00'&STOP_TIME='2025-02-07%2023:59'&STEP_SIZE='1%20d'&QUANTITIES='1,31' (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f019c52bc50>, 'Connection to ssd.jpl.nasa.gov timed out. (connect timeout=None)'))",
-        "moon_phase_meaning": "N/A",
-        "lunar_mansion_name": "N/A",
-        "lunar_mansion_meaning": "N/A"
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Krittika",
+        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
     },
     {
         "date": "2025-02-08",
         "day": "Saturday",
-        "moon_phase": "Error fetching data: HTTPSConnectionPool(host='ssd.jpl.nasa.gov', port=443): Max retries exceeded with url: /api/horizons.api?format=text&COMMAND='301'&EPHEM_TYPE='OBSERVER'&CENTER='500@399'&START_TIME='2025-02-08%2000:00'&STOP_TIME='2025-02-08%2023:59'&STEP_SIZE='1%20d'&QUANTITIES='1,31' (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f019c52bd90>, 'Connection to ssd.jpl.nasa.gov timed out. (connect timeout=None)'))",
-        "moon_phase_meaning": "N/A",
-        "lunar_mansion_name": "N/A",
-        "lunar_mansion_meaning": "N/A"
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Mrigashira",
+        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
     },
     {
         "date": "2025-02-09",
         "day": "Sunday",
-        "moon_phase": "Error fetching data: HTTPSConnectionPool(host='ssd.jpl.nasa.gov', port=443): Max retries exceeded with url: /api/horizons.api?format=text&COMMAND='301'&EPHEM_TYPE='OBSERVER'&CENTER='500@399'&START_TIME='2025-02-09%2000:00'&STOP_TIME='2025-02-09%2023:59'&STEP_SIZE='1%20d'&QUANTITIES='1,31' (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f019c52b890>, 'Connection to ssd.jpl.nasa.gov timed out. (connect timeout=None)'))",
-        "moon_phase_meaning": "N/A",
-        "lunar_mansion_name": "N/A",
-        "lunar_mansion_meaning": "N/A"
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
     },
     {
         "date": "2025-02-10",
         "day": "Monday",
-        "moon_phase": "Error fetching data: HTTPSConnectionPool(host='ssd.jpl.nasa.gov', port=443): Max retries exceeded with url: /api/horizons.api?format=text&COMMAND='301'&EPHEM_TYPE='OBSERVER'&CENTER='500@399'&START_TIME='2025-02-10%2000:00'&STOP_TIME='2025-02-10%2023:59'&STEP_SIZE='1%20d'&QUANTITIES='1,31' (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f019c52b9d0>, 'Connection to ssd.jpl.nasa.gov timed out. (connect timeout=None)'))",
-        "moon_phase_meaning": "N/A",
-        "lunar_mansion_name": "N/A",
-        "lunar_mansion_meaning": "N/A"
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Mrigashira",
+        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
     },
     {
         "date": "2025-02-11",
         "day": "Tuesday",
-        "moon_phase": "Error fetching data: HTTPSConnectionPool(host='ssd.jpl.nasa.gov', port=443): Max retries exceeded with url: /api/horizons.api?format=text&COMMAND='301'&EPHEM_TYPE='OBSERVER'&CENTER='500@399'&START_TIME='2025-02-11%2000:00'&STOP_TIME='2025-02-11%2023:59'&STEP_SIZE='1%20d'&QUANTITIES='1,31' (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f019c52bb10>, 'Connection to ssd.jpl.nasa.gov timed out. (connect timeout=None)'))",
-        "moon_phase_meaning": "N/A",
-        "lunar_mansion_name": "N/A",
-        "lunar_mansion_meaning": "N/A"
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2025-02-12",
+        "day": "Wednesday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Krittika",
+        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
     }
 ]
