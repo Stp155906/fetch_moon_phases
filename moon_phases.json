@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-02-21",
-        "day": "Friday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Bharani",
-        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
-    },
-    {
         "date": "2025-02-22",
         "day": "Saturday",
         "moon_phase": "Waning Gibbous",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Rohini",
         "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
+    },
+    {
+        "date": "2025-02-28",
+        "day": "Friday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
     }
 ]
