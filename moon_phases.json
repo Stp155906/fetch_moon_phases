@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-02-24",
-        "day": "Monday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Ashvini",
-        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
-    },
-    {
         "date": "2025-02-25",
         "day": "Tuesday",
         "moon_phase": "Waning Gibbous",
@@ -52,6 +44,14 @@
         "day": "Sunday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Ashvini",
+        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
+    },
+    {
+        "date": "2025-03-03",
+        "day": "Monday",
+        "moon_phase": "Full Moon",
+        "moon_phase_meaning": "A time for completion and release.",
         "lunar_mansion_name": "Ashvini",
         "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
     }
