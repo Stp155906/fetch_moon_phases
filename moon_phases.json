@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-03-07",
-        "day": "Friday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Ashvini",
-        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
-    },
-    {
         "date": "2025-03-08",
         "day": "Saturday",
         "moon_phase": "Waning Gibbous",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Mrigashira",
         "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
+    },
+    {
+        "date": "2025-03-14",
+        "day": "Friday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Krittika",
+        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
     }
 ]
