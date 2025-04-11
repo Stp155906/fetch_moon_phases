@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-04-10",
-        "day": "Thursday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Rohini",
-        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
-    },
-    {
         "date": "2025-04-11",
         "day": "Friday",
         "moon_phase": "Full Moon",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Mrigashira",
         "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
+    },
+    {
+        "date": "2025-04-17",
+        "day": "Thursday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Krittika",
+        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
     }
 ]
