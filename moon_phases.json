@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-04-21",
-        "day": "Monday",
-        "moon_phase": "Full Moon",
-        "moon_phase_meaning": "A time for completion and release.",
-        "lunar_mansion_name": "Rohini",
-        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
-    },
-    {
         "date": "2025-04-22",
         "day": "Tuesday",
         "moon_phase": "Full Moon",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Ashvini",
         "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
+    },
+    {
+        "date": "2025-04-28",
+        "day": "Monday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Rohini",
+        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
     }
 ]
