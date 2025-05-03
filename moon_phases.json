@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-05-02",
-        "day": "Friday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Rohini",
-        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
-    },
-    {
         "date": "2025-05-03",
         "day": "Saturday",
         "moon_phase": "Waning Gibbous",
@@ -50,6 +42,14 @@
     {
         "date": "2025-05-08",
         "day": "Thursday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Rohini",
+        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
+    },
+    {
+        "date": "2025-05-09",
+        "day": "Friday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Rohini",
