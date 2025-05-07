@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-05-06",
-        "day": "Tuesday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Krittika",
-        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
-    },
-    {
         "date": "2025-05-07",
         "day": "Wednesday",
         "moon_phase": "Full Moon",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Bharani",
         "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2025-05-13",
+        "day": "Tuesday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Krittika",
+        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
     }
 ]
