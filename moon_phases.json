@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-08-20",
-        "day": "Wednesday",
-        "moon_phase": "Full Moon",
-        "moon_phase_meaning": "A time for completion and release.",
-        "lunar_mansion_name": "Krittika",
-        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
-    },
-    {
         "date": "2025-08-21",
         "day": "Thursday",
         "moon_phase": "Waning Gibbous",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Mrigashira",
         "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
+    },
+    {
+        "date": "2025-08-27",
+        "day": "Wednesday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
     }
 ]
