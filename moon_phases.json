@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-09-12",
-        "day": "Friday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Ashvini",
-        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
-    },
-    {
         "date": "2025-09-13",
         "day": "Saturday",
         "moon_phase": "Waning Gibbous",
@@ -50,6 +42,14 @@
     {
         "date": "2025-09-18",
         "day": "Thursday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2025-09-19",
+        "day": "Friday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Bharani",
