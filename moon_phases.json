@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-11-11",
-        "day": "Tuesday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Mrigashira",
-        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
-    },
-    {
         "date": "2025-11-12",
         "day": "Wednesday",
         "moon_phase": "Waning Gibbous",
@@ -50,6 +42,14 @@
     {
         "date": "2025-11-17",
         "day": "Monday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Bharani",
+        "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2025-11-18",
+        "day": "Tuesday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Bharani",
