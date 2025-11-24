@@ -1,13 +1,5 @@
 [
     {
-        "date": "2025-11-23",
-        "day": "Sunday",
-        "moon_phase": "Full Moon",
-        "moon_phase_meaning": "A time for completion and release.",
-        "lunar_mansion_name": "Mrigashira",
-        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
-    },
-    {
         "date": "2025-11-24",
         "day": "Monday",
         "moon_phase": "Waning Gibbous",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Rohini",
         "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
+    },
+    {
+        "date": "2025-11-30",
+        "day": "Sunday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Ashvini",
+        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
     }
 ]
