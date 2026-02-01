@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-01-31",
-        "day": "Saturday",
-        "moon_phase": "Full Moon",
-        "moon_phase_meaning": "A time for completion and release.",
-        "lunar_mansion_name": "Krittika",
-        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
-    },
-    {
         "date": "2026-02-01",
         "day": "Sunday",
         "moon_phase": "Full Moon",
@@ -50,6 +42,14 @@
     {
         "date": "2026-02-06",
         "day": "Friday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Mrigashira",
+        "lunar_mansion_meaning": "Search for knowledge, curiosity, and exploration."
+    },
+    {
+        "date": "2026-02-07",
+        "day": "Saturday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Mrigashira",
