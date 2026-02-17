@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-02-16",
-        "day": "Monday",
-        "moon_phase": "Waning Gibbous",
-        "moon_phase_meaning": "A period of reflection and gratitude.",
-        "lunar_mansion_name": "Rohini",
-        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
-    },
-    {
         "date": "2026-02-17",
         "day": "Tuesday",
         "moon_phase": "Full Moon",
@@ -54,5 +46,13 @@
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Bharani",
         "lunar_mansion_meaning": "Bearing burdens, nurturing, and transformation."
+    },
+    {
+        "date": "2026-02-23",
+        "day": "Monday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Ashvini",
+        "lunar_mansion_meaning": "New beginnings, quick healing, speed, and vitality."
     }
 ]
