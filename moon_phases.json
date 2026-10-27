@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-10-26",
-        "day": "Monday",
-        "moon_phase": "Full Moon",
-        "moon_phase_meaning": "A time for completion and release.",
-        "lunar_mansion_name": "Krittika",
-        "lunar_mansion_meaning": "Cutting away impurities, determination, and protection."
-    },
-    {
         "date": "2026-10-27",
         "day": "Tuesday",
         "moon_phase": "Full Moon",
@@ -50,6 +42,14 @@
     {
         "date": "2026-11-01",
         "day": "Sunday",
+        "moon_phase": "Waning Gibbous",
+        "moon_phase_meaning": "A period of reflection and gratitude.",
+        "lunar_mansion_name": "Rohini",
+        "lunar_mansion_meaning": "Growth, fertility, beauty, and sensuality."
+    },
+    {
+        "date": "2026-11-02",
+        "day": "Monday",
         "moon_phase": "Waning Gibbous",
         "moon_phase_meaning": "A period of reflection and gratitude.",
         "lunar_mansion_name": "Rohini",
